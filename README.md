@@ -54,7 +54,7 @@
 
 ---
 
-### The Well app is available for download! 🥳 🚀
+### Welcome to my Elk Stack Proejct! 🚀
 
 - iOS/macOS: Search for "well: reboot your mindset" on the [iOS app store](https://apps.apple.com/us/app/well-reboot-your-mindset/id1573357406).
 - Web: Visit [https://well-app.netlify.app](https://well-app.netlify.app). Install as a PWA for native-like functionality!
